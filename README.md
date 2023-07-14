@@ -1,4 +1,4 @@
-# Cotizador de Préstamos
+# Cotizador de Prestamos
 Este proyecto es un cotizador de préstamos que te permite calcular el monto de los pagos mensuales y el total a pagar según el monto solicitado y la tasa de interés seleccionada. Está desarrollado utilizando tecnologías web como Tailwind CSS, Vite, React y JavaScript.
 
 ## Características
